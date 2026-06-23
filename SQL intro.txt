@@ -1,0 +1,10 @@
+Key points
+1. Database
+    a. Relational Database (SQL): Ex - Oracle, MySQL
+    b. Non-Relational Database (NoSQL): Ex - MongoDB
+2. DBMS
+    a. Properties : ACID (Atomicity, Consistency, Isolation, Durability) properties
+    b. Operation : should perform CRUD (Create, Read, Update, Delete) operations
+3. Data Modeling (defining relationship between tables)
+4. Normalization
+5. SQL language (operation and their systax): Follow any one sql query language
